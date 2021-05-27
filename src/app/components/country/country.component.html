@@ -1,0 +1,17 @@
+<div class="container mt-5">
+    <div *ngIf="country" class="row animate__animated animate__bounce animate__fadeIn">
+        <div class="col-md-9">
+            <p><strong>Name:</strong> {{country.name}}</p>
+            <p><strong>Code name:</strong> {{country.alpha3Code}}</p>
+            <p><strong>Capital:</strong> {{country.capital}}</p>
+            <p><strong>Region:</strong> {{country.region}}</p>
+            <p><strong>Subregion:</strong> {{country.subregion}}</p>
+            <p><strong>Population:</strong> {{country.population}}</p>
+            <img style="width: 88%; height: 80%;" class="rounded" src="{{country.flag}}" alt="">
+        </div>
+
+        <div class="col-md-3">
+            <a class="btn btn-danger" routerLink="/">Back</a>
+        </div>
+    </div>
+</div>

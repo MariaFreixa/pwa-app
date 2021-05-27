@@ -1,4 +1,5 @@
 {
+  "homepage":"https://mariafreixa.github.io/pwa-app",
   "name": "countries-app",
   "version": "0.0.0",
   "scripts": {
@@ -11,7 +12,9 @@
     "dev:ssr": "ng run countriesApp:serve-ssr",
     "serve:ssr": "node dist/countriesApp/server/main.js",
     "build:ssr": "ng build --prod && ng run countriesApp:server:production",
-    "prerender": "ng run countriesApp:prerender"
+    "prerender": "ng run countriesApp:prerender",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "private": true,
   "dependencies": {
@@ -40,6 +43,7 @@
     "@types/jasmine": "~3.6.0",
     "@types/node": "^12.11.1",
     "codelyzer": "^6.0.0",
+    "gh-pages": "^3.2.0",
     "jasmine-core": "~3.6.0",
     "jasmine-spec-reporter": "~5.0.0",
     "karma": "~5.1.0",

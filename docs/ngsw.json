@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1622120198904,
-  "index": "/countriesApp/index.html",
+  "timestamp": 1622120844260,
+  "index": "https://mariafreixa.github.io/pwa-app/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/countriesApp/favicon.ico",
-        "/countriesApp/index.html",
-        "/countriesApp/main.50174d20fd0a5d4f2de2.js",
-        "/countriesApp/manifest.webmanifest",
-        "/countriesApp/polyfills.8c151b8375e767ff858f.js",
-        "/countriesApp/runtime.0e49e2b53282f40c8925.js",
-        "/countriesApp/styles.3ff695c00d717f2d2a11.css"
+        "https://mariafreixa.github.io/pwa-app/favicon.ico",
+        "https://mariafreixa.github.io/pwa-app/index.html",
+        "https://mariafreixa.github.io/pwa-app/main.50174d20fd0a5d4f2de2.js",
+        "https://mariafreixa.github.io/pwa-app/manifest.webmanifest",
+        "https://mariafreixa.github.io/pwa-app/polyfills.8c151b8375e767ff858f.js",
+        "https://mariafreixa.github.io/pwa-app/runtime.0e49e2b53282f40c8925.js",
+        "https://mariafreixa.github.io/pwa-app/styles.3ff695c00d717f2d2a11.css"
       ],
       "patterns": [
         "https:\\/\\/cdn\\.jsdelivr\\.net\\/npm\\/bootstrap@5\\.0\\.1\\/dist\\/css\\/bootstrap\\.min\\.css"
@@ -31,15 +31,15 @@
         "ignoreVary": true
       },
       "urls": [
-        "/countriesApp/assets/css/animate.css",
-        "/countriesApp/assets/icons/icon-128x128.png",
-        "/countriesApp/assets/icons/icon-144x144.png",
-        "/countriesApp/assets/icons/icon-152x152.png",
-        "/countriesApp/assets/icons/icon-192x192.png",
-        "/countriesApp/assets/icons/icon-384x384.png",
-        "/countriesApp/assets/icons/icon-512x512.png",
-        "/countriesApp/assets/icons/icon-72x72.png",
-        "/countriesApp/assets/icons/icon-96x96.png"
+        "https://mariafreixa.github.io/pwa-app/assets/css/animate.css",
+        "https://mariafreixa.github.io/pwa-app/assets/icons/icon-128x128.png",
+        "https://mariafreixa.github.io/pwa-app/assets/icons/icon-144x144.png",
+        "https://mariafreixa.github.io/pwa-app/assets/icons/icon-152x152.png",
+        "https://mariafreixa.github.io/pwa-app/assets/icons/icon-192x192.png",
+        "https://mariafreixa.github.io/pwa-app/assets/icons/icon-384x384.png",
+        "https://mariafreixa.github.io/pwa-app/assets/icons/icon-512x512.png",
+        "https://mariafreixa.github.io/pwa-app/assets/icons/icon-72x72.png",
+        "https://mariafreixa.github.io/pwa-app/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -62,22 +62,22 @@
     }
   ],
   "hashTable": {
-    "/countriesApp/assets/css/animate.css": "bc96496831f4df311443b8e3d76cfc17db53a988",
-    "/countriesApp/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/countriesApp/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/countriesApp/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/countriesApp/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/countriesApp/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/countriesApp/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/countriesApp/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/countriesApp/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/countriesApp/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/countriesApp/index.html": "b8cb96269c5ed0b760b38a8d89962f9e04a68233",
-    "/countriesApp/main.50174d20fd0a5d4f2de2.js": "2c485262bba2ac8a071f90cf355ba187f67b1b00",
-    "/countriesApp/manifest.webmanifest": "12ae70ace496acb6f10ed8f8bb7c821560df985e",
-    "/countriesApp/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
-    "/countriesApp/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/countriesApp/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://mariafreixa.github.io/pwa-app/assets/css/animate.css": "bc96496831f4df311443b8e3d76cfc17db53a988",
+    "https://mariafreixa.github.io/pwa-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://mariafreixa.github.io/pwa-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://mariafreixa.github.io/pwa-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://mariafreixa.github.io/pwa-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://mariafreixa.github.io/pwa-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://mariafreixa.github.io/pwa-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://mariafreixa.github.io/pwa-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://mariafreixa.github.io/pwa-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://mariafreixa.github.io/pwa-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://mariafreixa.github.io/pwa-app/index.html": "cecc8a874c78e5a38f83439e472601b194222b7b",
+    "https://mariafreixa.github.io/pwa-app/main.50174d20fd0a5d4f2de2.js": "2c485262bba2ac8a071f90cf355ba187f67b1b00",
+    "https://mariafreixa.github.io/pwa-app/manifest.webmanifest": "12ae70ace496acb6f10ed8f8bb7c821560df985e",
+    "https://mariafreixa.github.io/pwa-app/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
+    "https://mariafreixa.github.io/pwa-app/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://mariafreixa.github.io/pwa-app/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {

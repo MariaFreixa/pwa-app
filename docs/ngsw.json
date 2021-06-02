@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1622131524921,
+  "timestamp": 1622619474985,
   "index": "https://mariafreixa.github.io/pwa-app/index.html",
   "assetGroups": [
     {
@@ -72,7 +72,7 @@
     "https://mariafreixa.github.io/pwa-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://mariafreixa.github.io/pwa-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://mariafreixa.github.io/pwa-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://mariafreixa.github.io/pwa-app/index.html": "cecc8a874c78e5a38f83439e472601b194222b7b",
+    "https://mariafreixa.github.io/pwa-app/index.html": "3322920d73d44652cf0d0afcb4eb0cf5280ee11e",
     "https://mariafreixa.github.io/pwa-app/main.50174d20fd0a5d4f2de2.js": "2c485262bba2ac8a071f90cf355ba187f67b1b00",
     "https://mariafreixa.github.io/pwa-app/manifest.webmanifest": "12ae70ace496acb6f10ed8f8bb7c821560df985e",
     "https://mariafreixa.github.io/pwa-app/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
